@@ -1,4 +1,4 @@
-# UAS Pemrograman Web
+# UAS Pemrograman Mobile
 
 * Agung Prastyo
 * 311910064
